@@ -1,0 +1,159 @@
+/* Direct tags here */
+h3{
+    
+    font-weight: 700;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.6rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+i:hover{
+    color: #ff4c68;
+}
+
+/* --------------------------------------------------------------- */
+
+/* Id here */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 2rem;
+    color: white;
+}
+#features{
+    padding:7% 15% 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+#footer{
+    background-color: #ff4c68;
+    color: white;
+    text-align: center;
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 300;
+    font-size: medium;
+}
+
+
+
+
+#navbarNav{
+    font-weight: 300;
+}
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+#title{
+    background-color: #ff4c68;
+    
+}
+
+#pricing{
+    padding:100px 100px 100px 100px;
+}
+
+#testimonials{
+    /* padding: 7% 15%; */
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+}
+
+
+/* ---------------------------------------------------------------- */
+
+
+/* Classes here */
+
+.carousel-item{
+    padding: 7% 15%;
+}
+.container-fluid{
+    padding:3% 15% 10%;
+    font-family: 'Montserrat', sans-serif;
+}
+.download-btn{
+    margin:3% 5% 5% 0;
+}
+
+.feature-point{
+    
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.feature-icon{
+    color: #cf8172;
+    size: 2rem;
+    padding-bottom: 10px;
+}
+
+.navbar{
+    font-weight: 300;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.nav-item{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 1.2rem;
+}
+
+.phone-pic{
+    padding-top: 100px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    /* width: 70%; */
+    transform: rotate(25deg);
+    /* z-index: -1; */
+    position: absolute;
+}
+.pricing-heading{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+.pricing-column{
+    padding: 3% 15%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
+
+.title-heading{
+    padding-top: 100px;
+    padding-bottom: 60px;
+    color: white;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+}
+
+
+/* ---------------------------------------------------------------- */
+
