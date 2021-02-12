@@ -33,11 +33,12 @@ i:hover{
 }
 
 #footer{
-    background-color: #ff4c68;
-    color: white;
+    background-color:white;
+    color: black;
+    padding: 20px 10px;
     text-align: center;
-    font-family: 'Ubuntu',sans-serif;
-    font-weight: 300;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
     font-size: medium;
 }
 
@@ -157,3 +158,13 @@ i:hover{
 
 /* ---------------------------------------------------------------- */
 
+/* Media query selectors */
+@media (max-width: 1028px){
+    .phone-pic{
+        position: static;
+        transform: rotate(0deg);
+    }
+    .title-heading{
+        text-align: center;
+    }
+}
